@@ -1,53 +1,64 @@
 {
-    "ciencia": [
+    "videos": [
       {
-        "Link": "https://www.youtube.com/embed/vjFefDCIje0?si=xyoap5CHD6cGBkmI"
+        "Link": "https://www.youtube.com/embed/vjFefDCIje0?si=xyoap5CHD6cGBkmI",
+        "Categoria": "Ciencia"
       },
       {
-        "Link": "https://www.youtube.com/embed/ArF5H_Ci3Uw?si=1ylcFjB3VzqLTXRg"
+        "Link": "https://www.youtube.com/embed/ArF5H_Ci3Uw?si=1ylcFjB3VzqLTXRg",
+        "Categoria": "Ciencia"
       },
       {
-        "Link": "https://www.youtube.com/embed/xpkvtAZV9CM?si=zzCjMK0XmOOkTB5G"
+        "Link": "https://www.youtube.com/embed/xpkvtAZV9CM?si=zzCjMK0XmOOkTB5G",
+        "Categoria": "Ciencia"
       },
       {
-        "Link": "https://www.youtube.com/embed/Jq8T4IW1q4g?si=XWtoMQgrCmC277Eg"
+        "Link": "https://www.youtube.com/embed/Jq8T4IW1q4g?si=XWtoMQgrCmC277Eg",
+        "Categoria": "Ciencia"
       },
       {
-        "Link": "https://www.youtube.com/embed/UJUZjVWz_Ho?si=eMgR1LvdF1An1EnU"
-      }
-    ],
-    "tecnologia": [
-      {
-        "Link": "https://www.youtube.com/embed/wfGBlHn5o2o?si=LSaFCUrvEfvfrpLE"
+        "Link": "https://www.youtube.com/embed/UJUZjVWz_Ho?si=eMgR1LvdF1An1EnU",
+        "Categoria": "Ciencia"
       },
       {
-        "Link": "https://www.youtube.com/embed/9qSpbcLbnyE?si=F1bA6i7ktwZZ4j2M"
+        "Link": "https://www.youtube.com/embed/wfGBlHn5o2o?si=LSaFCUrvEfvfrpLE",
+        "Categoria": "Tecnología"
       },
       {
-        "Link": "https://www.youtube.com/embed/9FDBzdhA3a4?si=4PUOdJg6cOyX_r7K"
+        "Link": "https://www.youtube.com/embed/9qSpbcLbnyE?si=F1bA6i7ktwZZ4j2M",
+        "Categoria": "Tecnología"
       },
       {
-        "Link": "https://www.youtube.com/embed/-F-NDfsxmG4?si=ihlSKxtj9-FIExy_"
+        "Link": "https://www.youtube.com/embed/9FDBzdhA3a4?si=4PUOdJg6cOyX_r7K",
+        "Categoria": "Tecnología"
       },
       {
-        "Link": "https://www.youtube.com/embed/mvLYJ6xbjQs?si=F67Mzy1Cdb8v-jml"
-      }
-    ],
-    "musica": [
-      {
-        "Link": "https://www.youtube.com/embed/aGJ3Jhb7i88?si=F18Y9CvqjJM5SF6X"
+        "Link": "https://www.youtube.com/embed/-F-NDfsxmG4?si=ihlSKxtj9-FIExy_",
+        "Categoria": "Tecnología"
       },
       {
-        "Link": "https://www.youtube.com/embed/WTrFa9H_lpk?si=MRfqwwngdeHD6iFN"
+        "Link": "https://www.youtube.com/embed/mvLYJ6xbjQs?si=F67Mzy1Cdb8v-jml",
+        "Categoria": "Tecnología"
       },
       {
-        "Link": "https://www.youtube.com/embed/GTaOXDmD3qk?si=rzpDgj1PbAR8VGZJ"
+        "Link": "https://www.youtube.com/embed/aGJ3Jhb7i88?si=F18Y9CvqjJM5SF6X",
+        "Categoria": "Música"
       },
       {
-        "Link": "https://www.youtube.com/embed/g_TkhkF98Eo?si=W8E-iJjqwnAlnkvJ"
+        "Link": "https://www.youtube.com/embed/WTrFa9H_lpk?si=MRfqwwngdeHD6iFN",
+        "Categoria": "Música"
       },
       {
-        "Link": "https://www.youtube.com/embed/BgCmotgySdU?si=Nbc3BWY0626IOJfZ"
+        "Link": "https://www.youtube.com/embed/GTaOXDmD3qk?si=rzpDgj1PbAR8VGZJ",
+        "Categoria": "Música"
+      },
+      {
+        "Link": "https://www.youtube.com/embed/g_TkhkF98Eo?si=W8E-iJjqwnAlnkvJ",
+        "Categoria": "Música"
+      },
+      {
+        "Link": "https://www.youtube.com/embed/BgCmotgySdU?si=Nbc3BWY0626IOJfZ",
+        "Categoria": "Música"
       }
     ],
     "categorias": [
