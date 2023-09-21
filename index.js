@@ -5,7 +5,7 @@ const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3001;
 
 // Agrega la lógica para guardar los datos en tu base de datos JSON (db.json)
-server.post("/", (req, res) => {
+server.post("/db", (req, res) => {
   const data = req.body;
   
   // Leer los datos actuales de db.json
